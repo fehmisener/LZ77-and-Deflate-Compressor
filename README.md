@@ -44,7 +44,7 @@ For DEFLATE, files with .def (short for Deflate) extension are created in the "o
 # Resources Used
 • https://cs.stanford.edu/people/eroberts/courses/soco/projects/data-compression/lossless/lz77/index.htm  
 • https://pdfs.semanticscholar.org/e8d7/c01594cf4359c3d50aef7db88b0153c7fcbd.pdf   
-• http://corpus.canterbury.ac.nz/descript ions/#cantrbry   
+• http://corpus.canterbury.ac.nz/descriptions/#cantrbry   
 • http://altanmesut.trakya.edu.tr/pubs/DR_Tez.pdf  
 • https://www.youtube.com/watch?v=0vMyw4Lv3Hw  
 • https://www.youtube.com/watch?v=goOa3DGezUA  
