@@ -1,4 +1,4 @@
-# LZ77-and-Deflate-Compressor
+# LZ77 and Deflate Compressor
 This project is about  the implementation of the LZ77 and Deflate COMPRESSION  algorithm.  
 main.c file contains implementations of both LZ77 and Deflate algorithm.
 
