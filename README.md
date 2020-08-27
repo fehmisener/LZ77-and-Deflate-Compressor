@@ -13,3 +13,4 @@ l: length, represents the length of the match.
 c: character, represents the character that is found after the match.
 Move the cursor l+1 positions to the right.
 for more information: https://towardsdatascience.com/how-data-compression-works-exploring-lz77-3a2c2e06c097
+f
