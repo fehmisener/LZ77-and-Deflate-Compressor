@@ -12,8 +12,8 @@ LZ77 iterates sequentially through the input string and stores any new match int
 -> l: length, represents the length of the match.  
 -> c: character, represents the character that is found after the match.  
 Move the cursor l+1 positions to the right.  
-![Simple Example of LZ77](https://i.hizliresim.com/9WgPoZ.jpg) 
-for more information: https://towardsdatascience.com/how-data-compression-works-exploring-lz77-3a2c2e06c097
+![Simple Example of LZ77](https://i.hizliresim.com/9WgPoZ.jpg)  
+  for more information: https://towardsdatascience.com/how-data-compression-works-exploring-lz77-3a2c2e06c097
 
 # How the DEFLATE algorithm works
 The DEFLATE compressed data format consists of a series of blocks, corresponding to successive blocks of input data. Each block is
