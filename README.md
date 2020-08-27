@@ -40,4 +40,10 @@ It is written in C language and Dev-C ++ IDE is used.
 "PADDING" ie inflating process is done and the file size increases. (In the compression ratio can be "-" ratio).  
 11- After the program runs, in the positions specified in lines 467 and 477; LZFG (Our own extension) extension in the "output" folder for LZ77,
 For DEFLATE, files with .def (short for Deflate) extension are created in the "outputDEFLATE" folder.  
-12- These created files are the compressed version of the .txt files received in the input folder.  
+12- These created files are the compressed version of the .txt files received in the input folder.
+# Resources Used
+-> https://cs.stanford.edu/people/eroberts/courses/soco/projects/data-compression/lossless/lz77/index.htm  
+-> https://zlib.net/feldspar.html  
+-> https://pdfs.semanticscholar.org/e8d7/c01594cf4359c3d50aef7db88b0153c7fcbd.pdf  
+-> https://www.youtube.com/watch?v=goOa3DGezUA  
+-> https://www.youtube.com/watch?v=wLx5OGxOYUc  
