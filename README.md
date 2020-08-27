@@ -1,6 +1,6 @@
 # LZ77 and Deflate Compressor
 This project is about  the implementation of the LZ77 and Deflate COMPRESSION  algorithm.  
-main.c file contains implementations of both LZ77 and Deflate algorithm.
+main.c file contains implementations of both LZ77 and Deflate algorithm. It also contains the huffman code and huffman tree code required for the deflate algorithm.
 
 # General summary of the project
 The project aims to compress and store the text document file with .txt extension, which is received as input.  
