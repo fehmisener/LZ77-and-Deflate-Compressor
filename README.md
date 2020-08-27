@@ -4,7 +4,7 @@ main.c file contains implementations of both LZ77 and Deflate algorithm.
 
 # General summary of the project
 The project aims to compress and store the text document file with .txt extension, which is received as input.  
-To do this, LZSS (Lempel – Ziv – Storer – Szymanski) and DEFLATE algorithm are used. LZSS algorithm aims to compress by eliminating repetitive places
+To do this, LZSS (Lempel – Ziv – Storer – Szymanski) and DEFLATE algorithm are used. LZSS algorithm aims to compress by eliminating repetitive places.
 
 # How the lz77 algorithm works
 LZ77 iterates sequentially through the input string and stores any new match into a search buffer. The process of compression can be divided in 3 steps:  
@@ -22,9 +22,9 @@ The DEFLATE compressed data format consists of a series of blocks, corresponding
 compressed using a combination of the LZ77 algorithm and Huffman coding . The LZ77 algorithm finds repeated substrings and
 replaces them with backward references (relative distance offsets). The LZ77 algorithm can use a reference to a duplicated string
 occurring in the same or previous blocks, up to 32K input bytes back.
-# Project language
-It is written in C language and Dev-C ++ IDE is used.
 
+# Project language
+It is written in C language and Dev-C ++ IDE is used.  
 !!! IMPORTANT WARNING: The program causes a problem in compressing text documents over 200-300Kb. (Also explained in the report) !!!  
 !!!!! Just put the text documents to be tested in the input folder, and there is no need for another folder for either algorithm. !!!!!  
 
@@ -43,6 +43,7 @@ It is written in C language and Dev-C ++ IDE is used.
 11- After the program runs, in the positions specified in lines 467 and 477; LZFG (Our own extension) extension in the "output" folder for LZ77,
 For DEFLATE, files with .def (short for Deflate) extension are created in the "outputDEFLATE" folder.  
 12- These created files are the compressed version of the .txt files received in the input folder.
+
 # Resources Used
 • https://cs.stanford.edu/people/eroberts/courses/soco/projects/data-compression/lossless/lz77/index.htm  
 • https://pdfs.semanticscholar.org/e8d7/c01594cf4359c3d50aef7db88b0153c7fcbd.pdf   
