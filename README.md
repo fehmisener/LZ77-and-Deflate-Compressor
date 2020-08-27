@@ -42,8 +42,19 @@ It is written in C language and Dev-C ++ IDE is used.
 For DEFLATE, files with .def (short for Deflate) extension are created in the "outputDEFLATE" folder.  
 12- These created files are the compressed version of the .txt files received in the input folder.
 # Resources Used
--> https://cs.stanford.edu/people/eroberts/courses/soco/projects/data-compression/lossless/lz77/index.htm  
--> https://zlib.net/feldspar.html  
--> https://pdfs.semanticscholar.org/e8d7/c01594cf4359c3d50aef7db88b0153c7fcbd.pdf  
--> https://www.youtube.com/watch?v=goOa3DGezUA  
--> https://www.youtube.com/watch?v=wLx5OGxOYUc  
+• https://cs.stanford.edu/people/eroberts/courses/soco/projects/data-compression/lossless/lz77/index.htm  
+• https://pdfs.semanticscholar.org/e8d7/c01594cf4359c3d50aef7db88b0153c7fcbd.pdf   
+• http://corpus.canterbury.ac.nz/descript ions/#cantrbry   
+• http://altanmesut.trakya.edu.tr/pubs/DR_Tez.pdf  
+• https://www.youtube.com/watch?v=0vMyw4Lv3Hw  
+• https://www.youtube.com/watch?v=goOa3DGezUA  
+• https://www.youtube.com/watch?v=JsTptu56GM8  
+• https://ysar.net/algoritma/lz77.html  
+• https://zlib.net/feldspar.html  
+• https://sites.google.com/site/datacompressionguide/lz77   
+• http://michael.dipperstein.com/lzss/  
+• http://www.mathcs.emory.edu/~cheung/Courses/255/Syllabus/1-C-intro/bitarray.html  
+• https://github.com/dbrgn/algorithms/blob/master/lz/lz77.c  
+• https://github.com/ggz/huffman_coding  
+• https://people.ok.ubc.ca/ylucet/DS/Huffman.html  
+• https://www.researchgate.net/figure/Simplified-DEFLATEalgorithm_fig3_228411140 
