@@ -3,7 +3,7 @@ This project is about  the implementation of the LZ77 and Deflate COMPRESSION  a
 main.c file contains implementations of both LZ77 and Deflate algorithm.
 
 # General summary of the project
-The project aims to compress and store the text document file with .txt extension, which is received as input.
+The project aims to compress and store the text document file with .txt extension, which is received as input.  
 To do this, LZSS (Lempel – Ziv – Storer – Szymanski) and DEFLATE algorithm are used. LZSS algorithm aims to compress by eliminating repetitive places
 
 # How the lz77 algorithm works
